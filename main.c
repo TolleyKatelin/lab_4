@@ -1,4 +1,4 @@
-/* main.c */
+ghjghjghvjgyhjg
 #include <stdio.h>
 
 #include "askname.h"
